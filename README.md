@@ -28,7 +28,7 @@ It performs **neural style transfer**, blending the content of one image with th
 ## 🚀 How to Run
 
 ### Option 1: Run on Google Colab (Recommended)
-1. Open the notebook → [AI_Art_Style_Transfer.ipynb](notebook/AI_Art_Style_Transfer.ipynb)
+1. Open the notebook → [AI STYLE PROJECT.py](notebook/AI_Art_Style_Transfer.ipynb)
 2. Upload your content and style images.
 3. Run all cells — see the stylized result instantly.
 
